@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello Super!");
         System.out.println("hello Jcl");
         System.out.println("hello JclFly");
+        System.out.println("hot-fix test!");
     }
 }
